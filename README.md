@@ -67,13 +67,6 @@ Use Pinia where shared state makes sense.
 
 - Works well on mobile and desktop.
 
-## Deliverables
-
-- Git repository with the solution
-- `README.md` with:
-    - brief notes on decisions (structure/state/data approach) if you want
-    - “Next steps”, if you didn't have enough time to implement everything you wanted
-
 ## Project Setup
 
 Node version is defined in `package.json -> engines`.
