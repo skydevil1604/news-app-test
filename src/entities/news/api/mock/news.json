@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "title": "Markets on edge as global inflation concerns return",
+    "description": "Investors remain cautious as new economic data revives fears of prolonged inflation and slower global growth.",
+    "text": "Investors remain cautious as new economic data revives fears of prolonged inflation and slower global growth.",
+    "author": "Eddie Munson",
+    "publishedAt": "2025-12-15T10:00:00.000Z",
+    "image": "/images/news-market.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Tech giants face growing pressure over AI regulation",
+    "description": "Governments worldwide are increasing scrutiny on artificial intelligence, calling for clearer rules and accountability.",
+    "text": "Governments worldwide are increasing scrutiny on artificial intelligence, calling for clearer rules and accountability.",
+    "author": "Will Byers",
+    "publishedAt": "2025-12-14T12:00:00.000Z",
+    "image": "/images/news-ai.png"
+  },
+  {
+    "id": "3",
+    "title": "Healthcare systems adapt to rising demand for mental health support",
+    "description": "Public and private providers are expanding services as awareness and demand continue to grow across multiple regions.",
+    "text": "Public and private providers are expanding services as awareness and demand continue to grow across multiple regions.",
+    "author": "Will Byers",
+    "publishedAt": "2025-12-14T09:00:00.000Z",
+    "image": "/images/news-wellbeing.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Electric vehicle sales slow amid charging infrastructure concerns",
+    "description": "Despite long-term growth, consumers remain hesitant due to limited charging availability and high costs.",
+    "text": "Consumers are delaying electric vehicle purchases as charging availability and rising costs continue to raise concerns, despite strong long-term market forecasts.\n\nElectric vehicle (EV) sales have shown signs of slowing in several key markets, highlighting growing consumer hesitation around charging infrastructure and overall ownership costs. While demand for electric cars remains significantly higher than just a few years ago, recent data suggests that adoption is no longer accelerating at the pace many manufacturers had anticipated.\n\nOne of the primary challenges remains the limited availability of reliable public charging stations. In urban areas, drivers often face long wait times, while in rural regions charging networks are still sparse or nonexistent. This lack of consistency has made potential buyers more cautious, particularly those who rely on long-distance travel or do not have access to home charging.\n\nCost concerns are also playing a major role. Although battery prices have gradually decreased, electric vehicles often still carry higher upfront costs compared to traditional combustion-engine cars. In addition, rising electricity prices in some regions have reduced the perceived savings of switching to electric.\n\n“Range anxiety is no longer the only issue — convenience and cost predictability are becoming equally important for consumers,” said an industry analyst.\n\nAutomakers and governments continue to invest heavily in expanding charging infrastructure, with new fast-charging networks and incentives planned for the coming years. Several manufacturers have also announced more affordable models aimed at first-time EV buyers.\n\nDespite the current slowdown, experts remain optimistic about the long-term outlook for electric vehicles. Stricter emissions regulations, technological advancements, and ongoing infrastructure development are expected to support renewed growth in the market over the next decade.\n\nFor now, however, the pace of adoption appears to be entering a more cautious phase, as consumers weigh environmental benefits against practical, everyday considerations.",
+    "author": "Eddie Munson",
+    "publishedAt": "2025-12-13T11:00:00.000Z",
+    "image": "/images/news-ev.png"
+  },
+  {
+    "id": "5",
+    "title": "Major streaming platforms rethink content strategies",
+    "description": "Media companies are adjusting production and licensing in response to changing viewing habits.",
+    "text": "Media companies are adjusting production and licensing in response to changing viewing habits.",
+    "author": "Mike Wheeler",
+    "publishedAt": "2025-12-12T12:00:00.000Z",
+    "image": "/images/news-media.png"
+  },
+  {
+    "id": "6",
+    "title": "Severe weather disrupts travel across parts of Europe",
+    "description": "Heavy storms and flooding have caused delays and cancellations, affecting thousands of passengers.",
+    "text": "Heavy storms and flooding have caused delays and cancellations, affecting thousands of passengers.",
+    "author": "Will Byers",
+    "publishedAt": "2025-12-12T09:00:00.000Z",
+    "image": "/images/news-umbrella.png"
+  }
+]
